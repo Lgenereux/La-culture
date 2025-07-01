@@ -10,37 +10,7 @@ Culture.html
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Culture & Musique | Voix du Faso</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      background-color: #f2f2f2;
-      color: #222;
-    }
-    header {
-      background-color: #c62828;
-      color: white;
-      padding: 1rem;
-      text-align: center;
-    }
-    section {
-      margin-top: 2rem;
-    }
-    h2 {
-      color: #c62828;
-    }
-    .artist, .event {
-      background-color: white;
-      padding: 1rem;
-      margin-bottom: 1rem;
-      border-radius: 8px;
-    }
-    footer {
-      margin-top: 3rem;
-      text-align: center;
-      font-size: 0.9em;
-    }
-  </style>
+  
 </head>
 <body>
 
@@ -75,7 +45,6 @@ Culture.html
       <li>Rap burkinabè</li>
     </ul>
   </section>
-
   <section>
     <h2>📅 Événements à venir</h2>
     <div class="event">
